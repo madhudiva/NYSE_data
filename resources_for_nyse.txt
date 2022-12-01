@@ -1,0 +1,7 @@
+Resources used for the Project - 
+
+1. For the financial forecast and the P&L Dashboard - referenced Udacity Lesson 5 - Excel Modelling
+2. https://www.investopedia.com/terms/v/volatility.asp
+3. https://www.lpl.com/newsroom/read/weekly-market-commentary-managing-market-volatility.html
+4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467874/
+5. For Task 1  - researched about the dataset and got ideas from the live sessions conducted. 
